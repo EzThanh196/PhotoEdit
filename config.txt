@@ -1,5 +1,5 @@
 {
-  "url_resource": "https://raw.githubusercontent.com/ducthanh150796/master-promote/master/data/",
+  "url_resource": "https://raw.githubusercontent.com/EzThanh196/PhotoEdit/main/data/",
   "resource": [
     {
       "item_name": "Clouds",
