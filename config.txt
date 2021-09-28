@@ -2,10 +2,6 @@
   "url_resource": "https://raw.githubusercontent.com/EzThanh196/PhotoEdit/main/data/",
   "resource": [
     {
-      "item_name": "Clouds",
-      "last_update": "27/05/2021 16:36"
-    },
-    {
       "item_name": "ColorCombo",
       "last_update": "27/05/2021 16:36"
     },
@@ -20,6 +16,10 @@
     {
       "item_name": "Frames",
       "last_update": "27/05/2021 16:36"
+    },
+    {
+      "item_name": "Clouds",
+      "last_update": "28/09/2021 11:39"
     },
     {
       "item_name": "Gradients",
