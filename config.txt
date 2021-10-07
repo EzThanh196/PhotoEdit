@@ -42,6 +42,14 @@
       "last_update": "27/05/2021 16:36"
     },
     {
+      "item_name": "Patting",
+      "last_update": "27/05/2021 16:36"
+    },
+    {
+      "item_name": "Pattern",
+      "last_update": "27/05/2021 16:36"
+    },
+    {
       "item_name": "Quotes",
       "last_update": "27/05/2021 16:36"
     },
