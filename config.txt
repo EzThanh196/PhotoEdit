@@ -42,7 +42,7 @@
       "last_update": "27/05/2021 16:36"
     },
     {
-      "item_name": "Patting",
+      "item_name": "Painting",
       "last_update": "27/05/2021 16:36"
     },
     {
